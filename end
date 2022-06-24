@@ -1,0 +1,45 @@
+[33mcommit 01532567c2df0934a0c157c29adeb9b421b16bd9[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Efren Rojas <lerm28@hotmail.com>
+Date:   Fri Jun 24 13:46:41 2022 -0500
+
+    Empiezo el projyecto de html
+
+ blogspot.html   | 14 [32m++++++++++++++[m
+ css/estilos.css |  6 [32m++++++[m
+ 2 files changed, 20 insertions(+)
+
+[33mcommit 3c9bbede40bc10d3e70e029a650b36a448afea2d[m
+Author: Efren Rojas <lerm28@hotmail.com>
+Date:   Thu Jun 23 14:17:28 2022 -0500
+
+    Se realizó correcición de estilo
+
+ historia.txt | 8 [32m++++[m[31m----[m
+ 1 file changed, 4 insertions(+), 4 deletions(-)
+
+[33mcommit e3c8987ae21f42318d6888945de01523b2e03774[m
+Author: Efren Rojas <lerm28@hotmail.com>
+Date:   Thu Jun 23 14:11:29 2022 -0500
+
+    Realicé cambios de ortografía
+
+ historia.txt | 9 [32m+++++++++[m
+ 1 file changed, 9 insertions(+)
+
+[33mcommit ebe27e226c1f2db02ed6b7f123a42b892f0eea85[m
+Author: Efren Rojas <lerm28@hotmail.com>
+Date:   Thu Jun 23 14:08:57 2022 -0500
+
+    Este es el primer commit de este archivo
+
+ historia.txt | 7 [31m-------[m
+ 1 file changed, 7 deletions(-)
+
+[33mcommit d5ad9a472dbe9382c2f9ff8a095754558107c83f[m
+Author: Elfren28 <lerm28@hotmail.com>
+Date:   Thu Jun 23 14:05:15 2022 -0500
+
+    Este es el primer commit de este archivo
+
+ historia.txt | 7 [32m+++++++[m
+ 1 file changed, 7 insertions(+)
